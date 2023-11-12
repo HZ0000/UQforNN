@@ -7,14 +7,14 @@ by Ziyi Huang, Henry Lam, and Haofeng Zhang.
 Paper link: https://arxiv.org/abs/2306.05674
 
 # Citation
+If you find this repository or the ideas presented in our paper useful, please consider citing the following:
 ```
 @inproceedings{
 huang2023efficient,
-title={Efficient Uncertainty Quantification and Reduction for Over-Parameterized Neural Networks},
-author={Ziyi Huang and Henry Lam and Haofeng Zhang},
-booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
-year={2023},
-url={https://openreview.net/forum?id=6vnwhzRinw}
+  title={Efficient Uncertainty Quantification and Reduction for Over-Parameterized Neural Networks},
+  author={Ziyi Huang and Henry Lam and Haofeng Zhang},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+  year={2023},
 }
 ```
 
