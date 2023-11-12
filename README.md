@@ -1,6 +1,6 @@
 # Efficient Uncertainty Quantification and Reduction for Over-Parameterized Neural Networks
 
-This repository contains code pertaining to the paper 
+This repository contains code pertaining to the NeurIPS 2023 paper 
 "Efficient Uncertainty Quantification and Reduction for Over-Parameterized Neural Networks" 
 by Ziyi Huang, Henry Lam, and Haofeng Zhang. 
 
@@ -17,3 +17,9 @@ year={2023},
 url={https://openreview.net/forum?id=6vnwhzRinw}
 }
 ```
+
+# Implementation
+
+To implement the PNC algorithm, run pnc_method.py <br />
+To implement the PNC-enhanced cheap bootstrap algorithm, run bootstrap_method.py <br />
+To implement the PNC-enhanced batching algorithm, run batching_method.py
