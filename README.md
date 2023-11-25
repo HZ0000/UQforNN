@@ -1,6 +1,6 @@
 # Efficient Uncertainty Quantification and Reduction for Over-Parameterized Neural Networks
 
-This repository contains code pertaining to the NeurIPS 2023 paper 
+This repository contains code related to the NeurIPS 2023 paper 
 "Efficient Uncertainty Quantification and Reduction for Over-Parameterized Neural Networks" 
 by Ziyi Huang, Henry Lam, and Haofeng Zhang. 
 
